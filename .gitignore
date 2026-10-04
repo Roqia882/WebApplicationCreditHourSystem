@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Build results
+bin/
+obj/
+
+# ASP.NET Core - sensitive configuration
+appsettings.json
+appsettings.Development.json
+
+# Logs
+logs/
+*.log
+
+# Visual Studio publish profiles
+Properties/PublishProfiles/
+
+# Uploaded profile images
+wwwroot/uploads/

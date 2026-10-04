@@ -1,0 +1,6 @@
+@WebApplication_Credit_hour_system_HostAddress = http://localhost:5159
+
+GET {{WebApplication_Credit_hour_system_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
